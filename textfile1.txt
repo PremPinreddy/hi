@@ -1,3 +1,7 @@
 Prem Chndra Reddy
+<<<<<<< HEAD
 Till here will be my fist git commit
 Added second commit data
+=======
+Till here will be my fist git commit
+>>>>>>> e8a51a70f57d1fc584e6123330572bd09c266e0a
